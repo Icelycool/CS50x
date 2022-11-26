@@ -1,0 +1,133 @@
+.navbar-dark{
+    background: #02231c;
+
+}
+
+.btn-dark{
+    background: #02231c;
+}
+.hero{
+    background-color: #d0f0c0;
+}
+
+
+.hero h1{
+    font-family: 'Courgette', cursive;
+    color: #11823b;
+}
+
+.hero p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background: #11823b;
+    border-color: #11823b;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn:hover {
+    background-color: #48bf53;
+    border-color: #48bf53;
+    color: #ffffff;
+}
+
+
+.nav-link:hover {
+    background-color: #48bf53;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+.newsletter{
+    background-color: #11823b;
+    color: #ffffff;
+}
+
+.newsletter h4{
+    font-family: 'Courgette', cursive;
+}
+
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+.trending{
+    background-image: url(../Assets/indexhero.jpg) ;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.trending h1{
+    font-family: 'Courgette', cursive;
+    color: #48bf53;
+}
+
+.contact{
+    background-color: #d0f0c0;
+}
+
+footer{
+    background: #02231c;
+    color: #ffffff;
+}
+
+.facts h1{
+    font-family: 'Courgette', cursive;
+    color: #48bf53;
+}
+
+.facts-body{
+    background-image: url(../Assets/factsbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.accordion{
+    opacity: 0.80;
+}
+
+.teams{
+    background-color: rgba(225, 225, 225, 0.70);
+    border-radius: 20px;
+    box-shadow: inset;
+}
+
+.care-body{
+    background-image: url(../Assets/heroimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card{
+    background-color: #d0f0c0;
+    border-left: 20px solid #11823b;
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    border-radius: 30px;
+}
+
+.care-img{
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+}
+
+.card-title{
+    font-family: 'Courgette', cursive;
+    color: #48bf53;
+}
+
+.care-title{
+    font-family: 'Courgette', cursive;
+    color: #02231c;
+}
